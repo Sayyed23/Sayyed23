@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sayyed23
 - 👀 I’m interested in python language 
 - 🌱 I’m currently learning Mechine learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI and ML projects
 - 📫 How to reach me ...
 
 <!---
