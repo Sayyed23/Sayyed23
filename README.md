@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Jarvis**
 
-- 🌱 I’m currently learning **MAchine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **ismailsayyed131@gmail.com**
 
